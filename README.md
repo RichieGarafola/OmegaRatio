@@ -41,7 +41,7 @@ matplotlib
 
 ---
 
-**File:** [Omega Ratio](omegaRatio.ipynb)
+**File:** [Omega Ratio](OmegaRatio.ipynb)
 
 ---
 
