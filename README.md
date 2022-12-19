@@ -17,7 +17,7 @@ Sophisticated investors like hedge funds use the Omega ratio. They use it becaus
 
 A simple test shows us AAPL’s returns are not normally distributed.
 
-![Omega Ratio](./Images/OmegaRatio.jpg)
+![Omega Ratio](./Images/omegaRatio.jpg)
 
 Capture your tail risk with the Omega ratio
 The skew (which measures symmetry) is -0.01. A normal distribution has skew of 0. The kurtosis (which measures outliers) is 5.3. A normal distribution has kurtosis of 3.
